@@ -1,0 +1,13 @@
+C:\Phase 2\Batch 3\Day24\LINQExamples\LINQExamples\bin\Debug\LINQExamples.exe.config
+C:\Phase 2\Batch 3\Day24\LINQExamples\LINQExamples\bin\Debug\LINQExamples.exe
+C:\Phase 2\Batch 3\Day24\LINQExamples\LINQExamples\bin\Debug\LINQExamples.pdb
+C:\Phase 2\Batch 3\Day24\LINQExamples\LINQExamples\obj\Debug\LINQExamples.csprojAssemblyReference.cache
+C:\Phase 2\Batch 3\Day24\LINQExamples\LINQExamples\obj\Debug\LINQExamples.csproj.CoreCompileInputs.cache
+C:\Phase 2\Batch 3\Day24\LINQExamples\LINQExamples\obj\Debug\LINQExamples.exe
+C:\Phase 2\Batch 3\Day24\LINQExamples\LINQExamples\obj\Debug\LINQExamples.pdb
+E:\bitm\bitm\Day24\Day24\LINQExamples\LINQExamples\bin\Debug\LINQExamples.exe.config
+E:\bitm\bitm\Day24\Day24\LINQExamples\LINQExamples\bin\Debug\LINQExamples.exe
+E:\bitm\bitm\Day24\Day24\LINQExamples\LINQExamples\bin\Debug\LINQExamples.pdb
+E:\bitm\bitm\Day24\Day24\LINQExamples\LINQExamples\obj\Debug\LINQExamples.csproj.CoreCompileInputs.cache
+E:\bitm\bitm\Day24\Day24\LINQExamples\LINQExamples\obj\Debug\LINQExamples.exe
+E:\bitm\bitm\Day24\Day24\LINQExamples\LINQExamples\obj\Debug\LINQExamples.pdb
